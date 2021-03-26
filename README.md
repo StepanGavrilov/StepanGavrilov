@@ -20,3 +20,11 @@
 ![swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black)
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
 ![github](https://img.shields.io/badge/-CI/CD-2D9EA2?&style=for-the-badge) 
+
+### My contacts
+
+<a href="https://t.me/TheMenZ">
+  <img src="https://img.shields.io/badge/-Telegram-1A4730?style=flat-square&logo=Telegram&logoColor=white" />
+</a>
+
+<img src="https://github.com/StepanGavrilov/StepanGavrilov/python.png" 
