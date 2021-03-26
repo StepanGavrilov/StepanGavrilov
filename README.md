@@ -21,10 +21,9 @@
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
 ![github](https://img.shields.io/badge/-CI/CD-2D9EA2?&style=for-the-badge) 
 
-### My contacts
+### My contacts <img src="https://github.com/StepanGavrilov/StepanGavrilov/blob/main/python.png" width="155" border="0" align="right" alt="side Image" /> &nbsp;  
 
 <a href="https://t.me/TheMenZ">
   <img src="https://img.shields.io/badge/-Telegram-1A4730?style=flat-square&logo=Telegram&logoColor=white" />
 </a>
 
-<img src="https://github.com/StepanGavrilov/StepanGavrilov/blob/main/python.png" 
