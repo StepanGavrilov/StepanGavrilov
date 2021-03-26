@@ -27,4 +27,4 @@
   <img src="https://img.shields.io/badge/-Telegram-1A4730?style=flat-square&logo=Telegram&logoColor=white" />
 </a>
 
-<img src="https://github.com/StepanGavrilov/StepanGavrilov/python.png" 
+<img src="https://github.com/StepanGavrilov/StepanGavrilov/blob/main/python.png" 
